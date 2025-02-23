@@ -1,0 +1,1 @@
+pyinstaller --clean --onedir --windowed --hidden-import PyQt5.sip --exclude numpy --exclude torch --exclude tensorflow --exclude scipy --exclude matplotlib --exclude pandas --disable-windowed-traceback --noupx sharkgoods.nopandas.py 
