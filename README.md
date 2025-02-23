@@ -1,5 +1,5 @@
 
-<center>**EasyGoods 谷子排肾表工具**</center>
+<center><h1><b> EasyGoods 谷子排肾表工具 </b></h1></center>
 
 一个让谷子的排表能转变为肾表的工具，支持合并入原始排表或新输出肾表。
 
